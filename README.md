@@ -1,1 +1,1 @@
-# JUEGO-PIEDRA-PAPEL-TIJERA
+# Juego-piedra-papel-o-tijera
